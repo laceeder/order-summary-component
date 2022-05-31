@@ -14,9 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -52,8 +49,6 @@ I learned how to apply SVG backgrounds with transparent properties. Also learned
 ### Continued development
 
 I would like to continue to work with SVG background images and customize them to my liking.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
